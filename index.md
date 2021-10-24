@@ -44,6 +44,14 @@ Here are the courses that I have taken at the University of Waterloo.
 |AMATH 373| Quantum Theory I |                            |                                            |Not available|
 |**Statistics**|
 |STAT 230| Probability Theory | STAT 230 Instructional Team | [STAT 230](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/STAT%20230%20Probability.pdf)|Completed|
+|**Computer Science**|
+|CS 115| Introduction to Computer Science I | CS 115 Instructional Team |                             | Not available| 
+|CS 116| Introduction to Computer Science II | CS 116 Instructional Team |                             | Not available| 
+|AMATH 242| Computational Mathematics|                                    |                            | Not available|
+
+
+
+
 
 
 
