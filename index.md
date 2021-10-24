@@ -68,6 +68,17 @@ If you find any mistake, please contact me. I will correct them as soon as possi
 ### Projects ###
 An Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
 
+CS 115 final project: a Racket program that generates the Pythagoras tree. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)
+
+CS 116 final project: a Python program that solves Kenken puzzles using the graph searching algorithm. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py)
+
+PHYS 121 projects: various projects I did for PHYS 121 (first-year mechanics). [Link](https://github.com/Egregium12/course-projects/tree/main/PHYS%20121%20Projects)
+
+AMATH 231 project 1: a project that explores the circulation of vector fields. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20231%20projects/AMATH231MiniProject1.pdf)
+
+AMATH 251 project 1: a project that explores various numerical methods of solving ODEs. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20251%20Projects/AMATH251Project1.pdf) [Maple code](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20251%20Projects/project1.mw)
+
+AMATH 271 project 1: a project that uses numerical methods to explore the trajectory of projectiles under the influence of quadratic drag. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.pdf) [Maple code](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.mw)
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
