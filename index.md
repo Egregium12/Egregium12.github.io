@@ -49,7 +49,7 @@ Here are the courses that I have taken at the University of Waterloo.
 |CS 116| Introduction to Computer Science II | CS 116 Instructional Team |                             | Not available| 
 |AMATH 242| Computational Mathematics|                                    |                            | Not available|
 
-
+The lecture notes are for learning purposes only. The copyright belongs to the authors. 
 
 
 
