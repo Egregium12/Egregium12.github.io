@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Yu Li
 
-You can use the [editor on GitHub](https://github.com/Egregium12/Egregium12.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+E-mail: y2933li@uwaterloo.ca 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub: https://github.com/Egregium12
 
-### Markdown
+LinkedIn: https://www.linkedin.com/in/yu-li-ab3536203/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
+
+I am currently a second-year undergraduate student at the University of Waterloo in Waterloo, ON, Canada. 
+My main fields of studies are Mathematical Physics and Pure Mathematics. 
+
 
 ```markdown
 Syntax highlighted code block
