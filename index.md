@@ -6,6 +6,12 @@ GitHub: https://github.com/Egregium12
 
 LinkedIn: https://www.linkedin.com/in/yu-li-ab3536203/
 
+Twitter: @LiYu68479294
+
+Instagram: li_yu_12
+
+WeChat: wxid_t5h9dfxydm1p22
+
 ### About Me ###
 
 I am currently a second-year undergraduate student at the University of Waterloo in Waterloo, ON, Canada. 
