@@ -65,7 +65,7 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |CS 116| Introduction to Computer Science II | CS 116 Instructional Team |                             | Not available| 
 |AMATH 242| Computational Mathematics|                                    |                            | Not available|
 
-The lecture notes are for learning purposes only. The copyright belongs to the authors. The lectures notes labelled "incomplete"
+Lecture notes are for learning purposes only. The copyright belongs to the authors. The lectures notes labelled "incomplete"
 will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or 
 courses that have not been taken yet. They will be updated once they are available. 
 
