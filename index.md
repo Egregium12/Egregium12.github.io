@@ -6,7 +6,7 @@ GitHub: https://github.com/Egregium12
 
 LinkedIn: https://www.linkedin.com/in/yu-li-ab3536203/
 
-### About Me
+### About Me ###
 
 I am currently a second-year undergraduate student at the University of Waterloo in Waterloo, ON, Canada. 
 My main fields of studies are Mathematical Physics and Pure Mathematics. 
@@ -20,7 +20,7 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 * 2019 Euclid mathematics contest top 0.3% 
 * 2019 Fermat mathematics contest gold medalist 
 
-### Coursework
+### Coursework ###
 
 Here are the courses that I have taken at the University of Waterloo.
 
@@ -63,7 +63,7 @@ courses that have not been taken yet. They will be updated once they are availab
 
 If you find any mistake, please contact me. I will correct them as soon as possible. 
 
-## Projects ##
+### Projects ###
 An Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
 
 
