@@ -14,6 +14,8 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 
 I like music, fictions, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am also a stongly self-motivated learner. I can focus on one particular thing all day and not get distracted. 
 
+![An image of Yu Li](WIN_20211023_23_22_09_Pro (2).jpg)
+
 ### Award, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
 * University of Waterloo President's Scholarship of Distinction
