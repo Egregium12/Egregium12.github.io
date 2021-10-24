@@ -12,6 +12,8 @@ I am currently a second-year undergraduate student at the University of Waterloo
 My main fields of studies are Mathematical Physics and Pure Mathematics. 
 I am currently interested in Quantum Mechanics, Quantum Information and Astrophysics. 
 
+I like music, fictions, animes and movies. When I lived in Alberta, I often went hiking in the mountains.   
+
 ### Award, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
 * University of Waterloo President's Scholarship of Distinction
