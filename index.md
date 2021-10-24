@@ -10,7 +10,6 @@ Twitter: @LiYu68479294
 
 Instagram: li_yu_12
 
-WeChat: wxid_t5h9dfxydm1p22
 
 ### About Me ###
 
