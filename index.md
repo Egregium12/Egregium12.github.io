@@ -28,6 +28,11 @@ Algebra
 MATH 145 | Foundation of Mathematics & Introductory Algebra | Nicholas Rollick | [MATH 145](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20145%20Foundations%20of%20Mathematics%20and%20Introductory%20Algebra.pdf)|Completed
 MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed
  
+ 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Egregium12/Egregium12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
