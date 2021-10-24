@@ -29,6 +29,15 @@ Here are the courses that I have taken at the University of Waterloo.
 |MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed|
 |MATH 245 | Linear Algebra II | Matthew Kennedy | [MATH 245](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20245%20Linear%20Algebra%202.pdf)|Completed|
 |PMATH 343| Introduction to Mathematics for Quantum Information|        |                 | Not available|
+
+
+
+
+
+
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Egregium12/Egregium12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
