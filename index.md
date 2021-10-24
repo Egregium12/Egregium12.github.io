@@ -41,7 +41,7 @@ Here are the courses that I have taken at the University of Waterloo.
 |AMATH 271| Theoretical Mechanics | Michael Waite |                                                     |Not available| 
 |PHYS 234| Elementary Quantum Mechanics | Raffi Budakian | [PHYS 234](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20234%20Elementary%20Quantum%20Mechanics.pdf) | Completed|                
 |PHYS 242| Electrodynamics I |                            |                                            |Not available| 
-|AMATH 373| Quantum Theory I |                                                                         |Not available|
+|AMATH 373| Quantum Theory I |                            |                                            |Not available|
 
 
 
