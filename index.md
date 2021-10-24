@@ -21,7 +21,7 @@ I like music, fiction, animes and movies. When I lived in Alberta, I often went 
 
 <img src="/assets/images/image.jpg" alt="" width="250">
 
-### Award, Grants & Honours ###
+### Awards, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
 * University of Waterloo President's Scholarship of Distinction
 * Faculty of Mathematics Promissory Scholarship
