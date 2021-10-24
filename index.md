@@ -24,7 +24,7 @@ I like music, fictions, animes and movies. When I lived in Alberta, I often went
 
 ### Coursework ###
 
-Here are the courses that I have taken at the University of Waterloo.
+Here are the courses that I will have taken by the end of the Winter 2022 term at the University of Waterloo.
 
 |Course Number        | Title       | Instructor    |  Lecture Notes                | Status of Notes |
 ---------------------|--------------|---------------|-------------------------------|------------------|
