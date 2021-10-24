@@ -80,7 +80,7 @@ AMATH 251 project 1: a project that explores various numerical methods of solvin
 
 AMATH 271 project 1: a project that uses numerical methods to explore the trajectory of projectiles under the influence of quadratic drag. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.pdf) [Maple code](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.mw)
 
-AMATH 271 final project: a research on the motion of the double pendulum system, including the analytical solution under small angle approximation and the chaotic behaviour under large angles. The link will be available once it is finished. 
+AMATH 271 final project: a research on the motion of the double pendulum system, including the analytical solution under the small angle approximation and the chaotic behaviour under large angles. The link will be available once it is finished. 
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
