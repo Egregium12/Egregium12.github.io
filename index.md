@@ -37,8 +37,7 @@ Here are the courses that I have taken at the University of Waterloo.
 |**Physics**|
 |PHYS 121| Mechanics | Richard Epp & Karen Cummings |                                          |Not available|
 |PHYS 122| Waves, Electricity & Magnetism | Karen Cummings & Robert Mann |                     |Not available|
-
-
+|PHYS 175| Introduction to the Universe|  Richard Epp | [PHYS 175](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20175%20Introduction%20to%20the%20Universe.pdf)|Completed|
 
 
 
