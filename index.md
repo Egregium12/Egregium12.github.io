@@ -6,6 +6,8 @@ GitHub: https://github.com/Egregium12
 
 LinkedIn: https://www.linkedin.com/in/yu-li-ab3536203/
 
+![Image of Yu Li](https://github.com/Egregium12/Egregium12.github.io/blob/990c0f64bea00ef6c85e396940a82edb6cb17073/WIN_20211023_23_22_09_Pro%20(2).jpg)
+
 ### About Me
 
 I am currently a second-year undergraduate student at the University of Waterloo in Waterloo, ON, Canada. 
