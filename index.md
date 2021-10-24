@@ -14,7 +14,7 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 
 I like music, fictions, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am also a stongly self-motivated learner. I can focus on one particular thing all day and not get distracted. 
 
-<img src="https://github.com/Egregium12/Egregium12.github.io/blob/4d4395df7bd2ff8cd45c563c2751f04c0201dbf8/WIN_20211023_23_22_09_Pro%20(2).jpg" width=30% height=30%>
+![Book logo](https://github.com/Egregium12/Egregium12.github.io/blob/e5174d459dcaa84c62773111607019ab3a1bcca9/WIN_20211023_23_22_09_Pro%20(2).jpg)
 
 ### Award, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
