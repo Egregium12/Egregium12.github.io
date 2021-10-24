@@ -61,7 +61,7 @@ The lecture notes are for learning purposes only. The copyright belongs to the a
 will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or 
 courses that have not been taken yet. They will be updated once they are available. 
 
-If you find any mistake, welcome to contact me. I will correct them as soon as possible. 
+If you find any mistake, please contact me. I will correct them as soon as possible. 
 
 
 
