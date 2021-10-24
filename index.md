@@ -12,6 +12,14 @@ I am currently a second-year undergraduate student at the University of Waterloo
 My main fields of studies are Mathematical Physics and Pure Mathematics. 
 I am currently interested in Quantum Mechanics, Quantum Information and Astrophysics. 
 
+### Award, Grants & Honours ###
+* Faculty of Mathematics National Scholarship
+* University of Waterloo President's Scholarship of Distinction
+* Faculty of Mathematics Promissory Scholarship
+* Term Distinction (Fall 2020, Winter 2021, Spring 2021)
+* 2019 Euclid mathematics contest top 0.3% 
+* 2019 Fermat mathematics contest gold medalist 
+
 ### Coursework
 
 Here are the courses that I have taken at the University of Waterloo.
