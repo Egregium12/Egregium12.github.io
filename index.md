@@ -34,7 +34,9 @@ Here are the courses that I have taken at the University of Waterloo.
 |AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
 |**Geometry**|
 |PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
-
+|**Physics**|
+|PHYS 121| Mechanics | Richard Epp & Karen Cummings |                                          |Not available|
+|PHYS 122| Waves, Electricity & Magnetism | Karen Cummings & Robert Mann |                     |Not available|
 
 
 
