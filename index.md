@@ -64,11 +64,5 @@ courses that have not been taken yet. They will be updated once they are availab
 If you find any mistake, please contact me. I will correct them as soon as possible. 
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Egregium12/Egregium12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. 
+### Teaching ###
+MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
