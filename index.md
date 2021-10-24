@@ -16,16 +16,16 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 
 Here are the courses that I have taken at the University of Waterloo.
 
-|Course Number        | Title       | Instructor    |  Lecture Notes                | Status |
----------------------|--------------|---------------|-------------------------------|-------  |
-|Calculus & Analysis |
+|Course Number        | Title       | Instructor    |  Lecture Notes                | Status of Notes |
+---------------------|--------------|---------------|-------------------------------|------------------|
+|**Calculus & Analysis** |
 |MATH 147      | Analysis I  | Brian. Forrest & Laurent Marcoux    |  [MATH 147 ](https://github.com/Egregium12/LectureNotes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201.pdf)   [Supplementary Topics](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201%20Supplementary%20Topics.pdf)|Completed|
 |MATH 148 | Analysis II | Stephen New | [MATH 148](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20148%20Analysis%202.pdf)|Completed|
 |MATH 247 | Analysis III| Blake Madill| [MATH 247](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20247%20Analysis%203.pdf)|Completed|
 |PMATH 351 | Real Analysis | Stephen New | [PMATH 351](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20351%20Real%20Analysis.pdf)| Incomplete| 
 |PMATH 352 | Complex Analysis|           |                                            | Not available|
 |AMATH 231 | Vector Calculus | Michael Waite | [AMATH 231](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20231%20Vector%20Calculus%20and%20Fourier%20Analysis.pdf)|Completed|
-|Algebra |
+|**Algebra** |
 |MATH 145 | Foundation of Mathematics & Introductory Algebra | Nicholas Rollick | [MATH 145](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20145%20Foundations%20of%20Mathematics%20and%20Introductory%20Algebra.pdf)|Completed|
 |MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed|
 |MATH 245 | Linear Algebra II | Matthew Kennedy | [MATH 245](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20245%20Linear%20Algebra%202.pdf)|Completed|
