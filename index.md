@@ -16,8 +16,8 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 
 Here are the courses that I have taken at the University of Waterloo.
 
-|Course Number | Title       | Instructor    |  Lecture Notes                | Status |
-------------  | ------------|---------------|-------------------------------|-------  |
+|Course Number        | Title       | Instructor    |  Lecture Notes                | Status |
+---------------------|--------------|---------------|-------------------------------|-------  |
 |Calculus & Analysis |
 |MATH 147      | Analysis I  | Brian. Forrest & Laurent Marcoux    |  [MATH 147 ](https://github.com/Egregium12/LectureNotes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201.pdf)   [Supplementary Topics](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201%20Supplementary%20Topics.pdf)|Completed|
 |MATH 148 | Analysis II | Stephen New | [MATH 148](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20148%20Analysis%202.pdf)|Completed|
