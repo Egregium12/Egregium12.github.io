@@ -26,8 +26,8 @@ PMATH 351 | Real Analysis | Stephen New | [PMATH 351](https://github.com/Egregiu
 AMATH 231 | Vector Calculus | Michael Waite | [AMATH 231](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20231%20Vector%20Calculus%20and%20Fourier%20Analysis.pdf)|Completed
 Algebra 
 MATH 145 | Foundation of Mathematics & Introductory Algebra | Nicholas Rollick | [MATH 145](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20145%20Foundations%20of%20Mathematics%20and%20Introductory%20Algebra.pdf)|Completed
-MATH 146 | Linear Algebra I |  
-
+MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed
+ 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Egregium12/Egregium12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
