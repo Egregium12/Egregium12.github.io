@@ -64,7 +64,7 @@ courses that have not been taken yet. They will be updated once they are availab
 If you find any mistake, please contact me. I will correct them as soon as possible. 
 
 ## Projects ##
-A Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
+An Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
 
 
 ### Teaching ###
