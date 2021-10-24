@@ -12,8 +12,7 @@ I am currently a second-year undergraduate student at the University of Waterloo
 My main fields of studies are Mathematical Physics and Pure Mathematics. 
 I am currently interested in Quantum Mechanics, Quantum Information and Astrophysics. 
 
-I like music, fictions, animes and movies. When I lived in Alberta, I often went hiking in the mountains.   
-I am also a stongly self-motivated learner. I can focus on one particular thing all day and not get distracted. 
+I like music, fictions, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am also a stongly self-motivated learner. I can focus on one particular thing all day and not get distracted. 
 
 ### Award, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
