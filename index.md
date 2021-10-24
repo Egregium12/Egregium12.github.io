@@ -42,6 +42,8 @@ Here are the courses that I have taken at the University of Waterloo.
 |PHYS 234| Elementary Quantum Mechanics | Raffi Budakian | [PHYS 234](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20234%20Elementary%20Quantum%20Mechanics.pdf) | Completed|                
 |PHYS 242| Electrodynamics I |                            |                                            |Not available| 
 |AMATH 373| Quantum Theory I |                            |                                            |Not available|
+|**Statistics**|
+|STAT 230| Probability Theory | STAT 230 Instructional Team | [STAT 230](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/STAT%20230%20Probability.pdf)|Completed|
 
 
 
