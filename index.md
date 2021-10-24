@@ -31,8 +31,9 @@ Here are the courses that I have taken at the University of Waterloo.
 |MATH 245 | Linear Algebra II | Matthew Kennedy | [MATH 245](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20245%20Linear%20Algebra%202.pdf)|Completed|
 |PMATH 343| Introduction to Mathematics for Quantum Information|        |                 | Not available|
 |**Differential Equations**| 
-|AMATH 251| Ordinary Differential Equations| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
-
+|AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
+|**Geometry**|
+|PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
 
 
 
