@@ -9,10 +9,10 @@ LinkedIn: https://www.linkedin.com/in/yu-li-ab3536203/
 ### About Me ###
 
 I am currently a second-year undergraduate student at the University of Waterloo in Waterloo, ON, Canada. 
-My main fields of studies are Mathematical Physics and Pure Mathematics. 
+My main fields of study are Mathematical Physics and Pure Mathematics. 
 I am currently interested in Quantum Mechanics, Quantum Information and Astrophysics. 
 
-I like music, fictions, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am also a stongly self-motivated learner. I can focus on one particular thing all day and not get distracted. 
+I like music, fiction, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am a strongly self-motivated learner, willing to devote myself to anything that arouses my curiosity. 
 
 <img src="/assets/images/image.jpg" alt="" width="250">
 
@@ -61,9 +61,8 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |CS 116| Introduction to Computer Science II | CS 116 Instructional Team |                             | Not available| 
 |AMATH 242| Computational Mathematics|                                    |                            | Not available|
 
-Lecture notes are for learning purposes only. The copyright belongs to the authors. The lectures notes labelled "incomplete"
-will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or 
-courses that have not been taken yet. They will be updated once they are available. 
+Lecture notes are for learning purposes only. The copyright belongs to the authors. The lecture notes labelled "incomplete"
+will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or courses that have not been taken yet. They will be updated once they are available. 
 
 If you find any mistake, please contact me. I will correct them as soon as possible. 
 
@@ -82,7 +81,7 @@ AMATH 251 project 1: a project that explores various numerical methods of solvin
 
 AMATH 271 project 1: a project that uses numerical methods to explore the trajectory of projectiles under the influence of quadratic drag. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.pdf) [Maple code](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.mw)
 
-AMATH 271 final project: a research on the motion of the double pendulum system, including the analytical solution under the small angle approximation and the chaotic behaviour under large angles. The link will be available once it is finished. 
+AMATH 271 final project: a research on the motion of the double pendulum system, including the analytical solution under the small angle approximation and the chaotic behaviour under large angles. The link will be available once it is completed. 
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
