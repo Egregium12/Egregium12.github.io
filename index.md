@@ -80,14 +80,6 @@ CS 115 final project: a Racket program that generates the Pythagoras tree. [Link
 
 CS 116 final project: a Python program that solves Kenken puzzles using the graph searching algorithm. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py)
 
-PHYS 121 projects: various projects I did for PHYS 121 (first-year mechanics). [Link](https://github.com/Egregium12/course-projects/tree/main/PHYS%20121%20Projects)
-
-AMATH 231 project 1: a project that explores the circulation of vector fields. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20231%20projects/AMATH231MiniProject1.pdf)
-
-AMATH 251 project 1: a project that explores various numerical methods of solving ODEs. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20251%20Projects/AMATH251Project1.pdf) [Maple code](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20251%20Projects/project1.mw)
-
-AMATH 271 project 1: a project that uses numerical methods to explore the trajectory of projectiles under the influence of quadratic drag. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.pdf) [Maple code](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/AMATH%20271%20projects/AMATH271Miniproject1.mw)
-
 AMATH 271 final project: a research on the motion of the double pendulum system, including the analytical solution under the small angle approximation and the chaotic behaviour under large angles. The link will be available once it is completed. 
 
 ### Teaching ###
