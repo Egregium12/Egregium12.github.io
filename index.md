@@ -41,7 +41,7 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |MATH 147      | Analysis I  | Brian. Forrest & Laurent Marcoux    |  [MATH 147 ](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201.pdf)   [Supplementary Topics](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201%20Supplementary%20Topics.pdf)|Completed|
 |MATH 148 | Analysis II | Stephen New | [MATH 148](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20148%20Analysis%202.pdf)|Completed|
 |MATH 247 | Analysis III| Blake Madill| [MATH 247](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20247%20Analysis%203.pdf)|Completed|
-|PMATH 351 | Real Analysis | Stephen New | [PMATH 351](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20351%20Real%20Analysis.pdf)| Completed| 
+|PMATH 351 | Real Analysis | Stephen New | [PMATH 351](https://github.com/Egregium12/Lecture-Notes/blob/3442a6916f85effd0c3c55dc6cd44517be8c3e72/PMATH%20351%20Real%20Analysis.pdf)| Completed| 
 |PMATH 352 | Complex Analysis|   Spiro Karigiannis      |                                            | Not available|
 |AMATH 231 | Vector Calculus | Michael Waite | [AMATH 231](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20231%20Vector%20Calculus%20and%20Fourier%20Analysis.pdf)|Completed|
 |**Algebra** |
