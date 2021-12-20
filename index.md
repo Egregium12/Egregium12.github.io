@@ -35,7 +35,7 @@ My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blo
 
 Here are the courses that I will have taken by the end of the Winter 2022 term at the University of Waterloo.
 
-|Course Number        | Title       | Instructor    |  Lecture Notes                | Status of Notes |
+|Course Number        | Title       | Instructor    |  Lecture Notes/Textbook          | Status of Notes |
 ---------------------|--------------|---------------|-------------------------------|------------------|
 |**Calculus & Analysis** |
 |MATH 147      | Analysis I  | Brian. Forrest & Laurent Marcoux    |  [MATH 147 ](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201.pdf)   [Supplementary Topics](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20147%20Analysis%201%20Supplementary%20Topics.pdf)|Completed|
