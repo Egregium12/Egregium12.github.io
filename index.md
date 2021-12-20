@@ -81,7 +81,9 @@ CS 115 final project: a Racket program that generates the Pythagoras tree. [Link
 
 CS 116 final project: a Python program that solves Kenken puzzles using the graph searching algorithm. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py)
 
-AMATH 271 final project: a research on the motion of the double pendulum system, including the analytical solution under the small angle approximation and the chaotic behaviour under large angles. The link will be available once it is completed. 
+AMATH 271 final project: a research on the motion of the double pendulum system. [Link](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf) [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
+
+AMATH 251 project: a project on the numerical methods of ODEs. [Link](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/AMATH251Project1.pdf) [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
