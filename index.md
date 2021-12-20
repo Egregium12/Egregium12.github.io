@@ -42,7 +42,7 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |MATH 148 | Analysis II | Stephen New | [MATH 148](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20148%20Analysis%202.pdf)|Completed|
 |MATH 247 | Analysis III| Blake Madill| [MATH 247](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20247%20Analysis%203.pdf)|Completed|
 |PMATH 351 | Real Analysis | Stephen New | [PMATH 351](https://github.com/Egregium12/Lecture-Notes/blob/3442a6916f85effd0c3c55dc6cd44517be8c3e72/PMATH%20351%20Real%20Analysis.pdf)| Completed| 
-|PMATH 352 | Complex Analysis|   Spiro Karigiannis      |                                            | Not available|
+|PMATH 352 | Complex Analysis|   Spiro Karigiannis      |     *Complex Variables: Harmonic and Analytic Functions* by F.J.Flanigan         | Not available|
 |AMATH 231 | Vector Calculus | Michael Waite | [AMATH 231](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20231%20Vector%20Calculus%20and%20Fourier%20Analysis.pdf)|Completed|
 |**Algebra** |
 |MATH 145 | Foundation of Mathematics & Introductory Algebra | Nicholas Rollick | [MATH 145](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20145%20Foundations%20of%20Mathematics%20and%20Introductory%20Algebra.pdf)|Completed|
@@ -55,10 +55,10 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |**Geometry**|
 |PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
 |**Physics**|
-|PHYS 121| Mechanics | Richard Epp & Karen Cummings |                                          |Not available|
-|PHYS 122| Waves, Electricity & Magnetism | Karen Cummings & Robert Mann |                     |Not available|
+|PHYS 121| Mechanics | Richard Epp & Karen Cummings |    *University Physics with Modern Physics* by Young & Freedman     |  |
+|PHYS 122| Waves, Electricity & Magnetism | Karen Cummings & Robert Mann |   *University Physics with Modern Physics* by Young & Freedman   |  |
 |PHYS 175| Introduction to the Universe|  Richard Epp | [PHYS 175](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20175%20Introduction%20to%20the%20Universe.pdf)|Completed|
-|AMATH 271| Theoretical Mechanics | Michael Waite |                                                     |Not available| 
+|AMATH 271| Theoretical Mechanics | Michael Waite |       *Classical Mechanics* by J.R.Taylor               | | 
 |PHYS 234| Elementary Quantum Mechanics | Raffi Budakian | [PHYS 234](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20234%20Elementary%20Quantum%20Mechanics.pdf) | Completed|                
 |PHYS 242| Electrodynamics I |        Bae-Yeun Ha       |                                            |Not available| 
 |AMATH 373| Quantum Theory I |        Zoran Miskovic         |                                            |Not available|
