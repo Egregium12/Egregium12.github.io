@@ -42,7 +42,7 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |MATH 148 | Analysis II | Stephen New | [MATH 148](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20148%20Analysis%202.pdf)|Completed|
 |MATH 247 | Analysis III| Blake Madill| [MATH 247](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20247%20Analysis%203.pdf)|Completed|
 |PMATH 351 | Real Analysis | Stephen New | [PMATH 351](https://github.com/Egregium12/Lecture-Notes/blob/3442a6916f85effd0c3c55dc6cd44517be8c3e72/PMATH%20351%20Real%20Analysis.pdf)| Completed| 
-|PMATH 352 | Complex Analysis|   Spiro Karigiannis      |     *Complex Variables: Harmonic and Analytic Functions* by F.J.Flanigan         | Not available|
+|PMATH 352 | Complex Analysis|   Spiro Karigiannis      |     *Complex Variables: Harmonic and Analytic Functions* by F.J.Flanigan         |  |
 |AMATH 231 | Vector Calculus | Michael Waite | [AMATH 231](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20231%20Vector%20Calculus%20and%20Fourier%20Analysis.pdf)|Completed|
 |**Algebra** |
 |MATH 145 | Foundation of Mathematics & Introductory Algebra | Nicholas Rollick | [MATH 145](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20145%20Foundations%20of%20Mathematics%20and%20Introductory%20Algebra.pdf)|Completed|
@@ -51,7 +51,7 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |PMATH 343| Introduction to Mathematics for Quantum Information|    David Gosset    |    [PMATH 343](http://elliptic.space/book.html)  |Completed|
 |**Differential Equations**| 
 |AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
-|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf)         |Completed| 
+|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf)  *Applied Partial Differrential Equations* by Richard Haberman       |Completed| 
 |**Geometry**|
 |PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
 |**Physics**|
@@ -88,6 +88,7 @@ AMATH 251 project: a project on the numerical methods of ODEs. [Link](https://gi
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
 
 ### Summer Research & Summer School ###
-NSERC Undergraduate Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
+NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
+
 Undergraduate School on Experimental Quantum Information Processing at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/).
 
