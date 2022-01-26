@@ -73,6 +73,14 @@ will be updated once they are completed. The lecture notes labelled "not availab
 
 If you find any mistake in any of the notes, please contact me. I will correct them as soon as possible. 
 
+### Summer Research & Summer School ###
+NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
+
+Undergraduate School on Experimental Quantum Information Processing at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/).
+
+### Teaching ###
+MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
+
 ### Projects ###
 An Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
 
@@ -83,12 +91,3 @@ CS 116 final project: a Python program that solves Kenken puzzles using the grap
 AMATH 271 final project: a research on the motion of the double pendulum system. [Link](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf) [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
 
 AMATH 251 project: a project on the numerical methods of ODEs. [Link](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/AMATH251Project1.pdf) [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
-
-### Teaching ###
-MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
-
-### Summer Research & Summer School ###
-NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
-
-Undergraduate School on Experimental Quantum Information Processing at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/).
-
