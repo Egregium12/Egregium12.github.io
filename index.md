@@ -13,7 +13,7 @@ Instagram: li_yu_12
 
 ### About Me ###
 
-I am currently a second-year undergraduate student at the University of Waterloo in Waterloo, ON, Canada. 
+I am currently a second-year undergraduate student at the [University of Waterloo](https://uwaterloo.ca/) in Waterloo, ON, Canada. 
 My main fields of study are Mathematical Physics and Pure Mathematics. 
 I am currently interested in Quantum Mechanics, Quantum Information and Astrophysics. 
 
@@ -48,10 +48,10 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |MATH 145 | Foundation of Mathematics & Introductory Algebra | Nicholas Rollick | [MATH 145](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20145%20Foundations%20of%20Mathematics%20and%20Introductory%20Algebra.pdf)|Completed|
 |MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed|
 |MATH 245 | Linear Algebra II | Matthew Kennedy | [MATH 245](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20245%20Linear%20Algebra%202.pdf)|Completed|
-|PMATH 343| Introduction to Mathematics for Quantum Information|    David Gosset    |                 | Not available|
+|PMATH 343| Introduction to Mathematics for Quantum Information|    David Gosset    |    [PMATH 343](http://elliptic.space/book.html)  |Completed|
 |**Differential Equations**| 
 |AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
-|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |                  | Not available| 
+|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf)         |Completed| 
 |**Geometry**|
 |PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
 |**Physics**|
@@ -60,14 +60,13 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |PHYS 175| Introduction to the Universe|  Richard Epp | [PHYS 175](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20175%20Introduction%20to%20the%20Universe.pdf)|Completed|
 |AMATH 271| Theoretical Mechanics | Michael Waite |       *Classical Mechanics* by J.R.Taylor               | | 
 |PHYS 234| Elementary Quantum Mechanics | Raffi Budakian | [PHYS 234](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20234%20Elementary%20Quantum%20Mechanics.pdf) | Completed|                
-|PHYS 242| Electrodynamics I |        Bae-Yeun Ha       |                                            |Not available| 
-|AMATH 373| Quantum Theory I |        Zoran Miskovic         |                                            |Not available|
+|PHYS 242| Electrodynamics I |        Bae-Yeun Ha       |       *Introduction to Electrodynamics* by David Griffiths             | | 
+|AMATH 373| Quantum Theory I |        Zoran Miskovic         |      [AMATH 373](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/Course%20Notes%20for%20AMATH%20373%20by%20Z%20Miskovic.pdf)                  |Completed|
 |**Statistics**|
 |STAT 230| Probability Theory | STAT 230 Instructional Team | [STAT 230](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/STAT%20230%20Probability.pdf)|Completed|
 |**Computer Science**|
 |CS 115| Introduction to Computer Science I | CS 115 Instructional Team |                             | Not available| 
 |CS 116| Introduction to Computer Science II | CS 116 Instructional Team |                             | Not available| 
-|AMATH 242| Computational Mathematics|       Leili Rafiee Sevyeri          |                            | Not available|
 
 Lecture notes are for learning purposes only. The copyright belongs to the authors. The lecture notes labelled "incomplete"
 will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or courses that have not been taken yet. They will be updated once they are available. 
@@ -87,3 +86,8 @@ AMATH 251 project: a project on the numerical methods of ODEs. [Link](https://gi
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
+
+### Summer Research & Summer School ###
+NSERC Undergraduate Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
+Undergraduate School on Experimental Quantum Information Processing at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/).
+
