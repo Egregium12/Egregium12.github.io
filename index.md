@@ -19,7 +19,7 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 
 I like music, fiction, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am a strongly self-motivated learner, willing to devote myself to anything that arouses my curiosity. 
 
-My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blob/10b1514929e7d610ce931989baf25be2d9c43a16/cv.pdf)
+My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blob/10b1514929e7d610ce931989baf25be2d9c43a16/cv.pdf).
 
 <img src="/assets/images/image.jpg" alt="" width="250">
 
@@ -51,7 +51,8 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |PMATH 343| Introduction to Mathematics for Quantum Information|    David Gosset    |    [PMATH 343](http://elliptic.space/book.html)  |Completed|
 |**Differential Equations**| 
 |AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
-|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf)  *Applied Partial Differrential Equations* by Richard Haberman       |Completed| 
+|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf)  
+                                                     *Applied Partial Differrential Equations* by Richard Haberman       |Completed| 
 |**Geometry**|
 |PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
 |**Physics**|
