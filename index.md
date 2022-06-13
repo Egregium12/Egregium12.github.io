@@ -64,7 +64,7 @@ Here are the courses that I will have taken by the end of the Fall 2023 term at 
 |PHYS 234| Elementary Quantum Mechanics | Raffi Budakian | [PHYS 234](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20234%20Elementary%20Quantum%20Mechanics.pdf) | Completed|                
 |PHYS 242| Electrodynamics I |        Bae-Yeun Ha       |       *Introduction to Electrodynamics* by David Griffiths             | | 
 |AMATH 373| Quantum Theory I |        Zoran Miskovic         |      [AMATH 373](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/Course%20Notes%20for%20AMATH%20373%20by%20Z%20Miskovic.pdf)                  |Completed|
-|PHYS 342| Electrodynamics II |        	Matteo Mariantoni       |      [PHYS 342]()             | | 
+|PHYS 342| Electrodynamics II |        	Matteo Mariantoni       |      [PHYS 342](https://github.com/Egregium12/Lecture-Notes/blob/fee590bb2b65f6341bd953c8ebbfae461efdc660/PHYS342_EM02-F20_Notes.pdf)             | | 
 |PHYS 442| Electrodynamics III |          Chris O'Donovan       |                               | Not yet available |
 |PHYS 475| Cosmology |             Will Percival           |                               | Not yet available |
 |AMATH 473| Quantum Theory II |        Achim Kempf           |                               | Not yet available |
