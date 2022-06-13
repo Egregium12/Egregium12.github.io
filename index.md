@@ -33,7 +33,7 @@ My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blo
 
 ### Coursework ###
 
-Here are the courses that I will have taken by the end of the Winter 2022 term at the University of Waterloo.
+Here are the courses that I will have taken by the end of the Fall 2023 term at the University of Waterloo.
 
 |Course Number        | Title       | Instructor    |  Lecture Notes/Textbook          | Status of Notes |
 ---------------------|--------------|---------------|-------------------------------|------------------|
@@ -49,9 +49,11 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed|
 |MATH 245 | Linear Algebra II | Matthew Kennedy | [MATH 245](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20245%20Linear%20Algebra%202.pdf)|Completed|
 |PMATH 343| Introduction to Mathematics for Quantum Information|    David Gosset    |    [PMATH 343](http://elliptic.space/book.html)  |Completed|
+|PMATH 347| Groups and Rings | | | Not yet available|
 |**Differential Equations**| 
 |AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
-|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf) & *Applied Partial Differrential Equations* by Richard Haberman       |Completed| 
+|AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf) & *Applied Partial Differrential Equations* by Richard Haberman       |Completed|
+|AMATH 351|           Ordinary Differential Equations II  |        |                               | Not yet available |
 |**Geometry**|
 |PMATH 321| Non-Euclidean Geometry| Stephen New| [PMATH 321](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PMATH%20321%20Non-Euclidean%20Geometry.pdf)|Completed|
 |**Physics**|
@@ -62,6 +64,10 @@ Here are the courses that I will have taken by the end of the Winter 2022 term a
 |PHYS 234| Elementary Quantum Mechanics | Raffi Budakian | [PHYS 234](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/PHYS%20234%20Elementary%20Quantum%20Mechanics.pdf) | Completed|                
 |PHYS 242| Electrodynamics I |        Bae-Yeun Ha       |       *Introduction to Electrodynamics* by David Griffiths             | | 
 |AMATH 373| Quantum Theory I |        Zoran Miskovic         |      [AMATH 373](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/Course%20Notes%20for%20AMATH%20373%20by%20Z%20Miskovic.pdf)                  |Completed|
+|PHYS 342| Electrodynamics II |        	Matteo Mariantoni       |      [PHYS 342]()             | | 
+|PHYS 442| Electrodynamics III |          Chris O'Donovan       |                               | Not yet available |
+|PHYS 475| Cosmology |             Will Percival           |                               | Not yet available |
+|AMATH 473| Quantum Theory II |        Achim Kempf           |                               | Not yet available |
 |**Statistics**|
 |STAT 230| Probability Theory | STAT 230 Instructional Team | [STAT 230](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/STAT%20230%20Probability.pdf)|Completed|
 |**Computer Science**|
@@ -76,12 +82,12 @@ If you find any mistake in any of the notes, please contact me. I will correct t
 ### Summer Research & Summer School ###
 NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
 
-Undergraduate School on Experimental Quantum Information Processing at the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/).
-
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
 
 ### Projects ###
+NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system and magnetometers. 
+
 An Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
 
 CS 115 final project: a Racket program that generates the Pythagoras tree. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)
