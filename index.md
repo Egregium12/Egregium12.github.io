@@ -19,7 +19,7 @@ I am currently interested in Quantum Mechanics, Quantum Information and Astrophy
 
 I like music, fiction, animes and movies. When I lived in Alberta, I often went hiking in the mountains. I am a strongly self-motivated learner, willing to devote myself to anything that arouses my curiosity. 
 
-My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blob/10b1514929e7d610ce931989baf25be2d9c43a16/cv.pdf).
+My CV is available [here]([https://github.com/Egregium12/Egregium12.github.io/blob/10b1514929e7d610ce931989baf25be2d9c43a16/cv.pdf](https://github.com/Egregium12/Egregium12.github.io/blob/827fdc236e2ee98ea616354ba78a3edf64df61c7/Yu_Li_resume.pdf)).
 
 <img src="/assets/images/image.jpg" alt="" width="250">
 
