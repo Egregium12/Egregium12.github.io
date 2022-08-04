@@ -21,8 +21,6 @@ I like music, fiction, animes and movies. When I lived in Alberta, I often went 
 
 My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blob/827fdc236e2ee98ea616354ba78a3edf64df61c7/Yu_Li_resume.pdf).
 
-<img src="/assets/images/image.jpg" alt="" width="250">
-
 ### Awards, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
 * University of Waterloo President's Scholarship of Distinction
@@ -84,6 +82,10 @@ NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afs
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
+USL PHAS0022 (Quantum Physics) Tutor
+
+### Talk ###
+Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields
 
 ### Projects ###
 NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system and magnetometers. 
