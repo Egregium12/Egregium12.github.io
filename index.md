@@ -82,7 +82,8 @@ NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afs
 
 ### Teaching ###
 MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
-USL PHAS0022 (Quantum Physics) Tutor
+
+UCL PHAS0022 (Quantum Physics) Tutor
 
 ### Talk ###
 Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields
