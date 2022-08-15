@@ -86,7 +86,7 @@ MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Mar
 UCL PHAS0022 (Quantum Physics) Tutor
 
 ### Talk ###
-Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields
+Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields. [Link](https://indico.cern.ch/event/1159309/contributions/4995815/)
 
 ### Projects ###
 NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system and magnetometers. 
