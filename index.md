@@ -31,7 +31,7 @@ My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blo
 
 ### Coursework ###
 
-Here are the courses that I will have taken by the end of the Fall 2023 term at the University of Waterloo.
+Here are the courses that I will have taken by the end of the Fall 2022 term at the University of Waterloo.
 
 |Course Number        | Title       | Instructor    |  Lecture Notes/Textbook          | Status of Notes |
 ---------------------|--------------|---------------|-------------------------------|------------------|
