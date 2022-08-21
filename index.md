@@ -1,6 +1,6 @@
 ## Yu Li
 
-E-mail: [y2933li@uwaterloo.ca](y2933li@uwaterloo.ca) 
+E-mail: y2933li@uwaterloo.ca
 
 GitHub: [https://github.com/Egregium12](https://github.com/Egregium12)
 
