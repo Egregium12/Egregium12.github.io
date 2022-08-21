@@ -1,12 +1,12 @@
 ## Yu Li
 
-E-mail: y2933li@uwaterloo.ca 
+E-mail: [y2933li@uwaterloo.ca](y2933li@uwaterloo.ca) 
 
-GitHub: https://github.com/Egregium12
+GitHub: [https://github.com/Egregium12](https://github.com/Egregium12)
 
-LinkedIn: https://www.linkedin.com/in/yu-li-ab3536203/
+LinkedIn: [https://www.linkedin.com/in/yu-li-ab3536203/](https://www.linkedin.com/in/yu-li-ab3536203/)
 
-Twitter: @LiYu68479294
+Twitter: [@LiYu68479294](https://twitter.com/LiYu68479294)
 
 Instagram: li_yu_12
 
