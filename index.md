@@ -13,7 +13,7 @@ Instagram: li_yu_12
 
 ### About Me ###
 
-I am currently a second-year undergraduate student at the [University of Waterloo](https://uwaterloo.ca/) in Waterloo, ON, Canada. 
+I am currently a third-year undergraduate student at the [University of Waterloo](https://uwaterloo.ca/) in Waterloo, ON, Canada. 
 My main fields of study are Mathematical Physics and Pure Mathematics. 
 I am currently interested in Quantum Mechanics, Quantum Information and Astrophysics. 
 
@@ -23,9 +23,10 @@ My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blo
 
 ### Awards, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
+* NSERC Undergraduate Student Research Award
 * University of Waterloo President's Scholarship of Distinction
 * Faculty of Mathematics Promissory Scholarship
-* Term Distinction (Fall 2020, Winter 2021, Spring 2021)
+* Term Distinction (Fall 2020, Winter 2021, Spring 2021, Fall 2021, Winter 2022)
 * 2019 Euclid mathematics contest top 0.3% 
 * 2019 Fermat mathematics contest gold medalist 
 
@@ -75,7 +76,7 @@ Here are the courses that I will have taken by the end of the Fall 2022 term at 
 Lecture notes are for learning purposes only. The copyright belongs to the authors. The lecture notes labelled "incomplete"
 will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or courses that have not been taken yet. They will be updated once they are available. 
 
-If you find any mistake in any of the notes, please contact me. I will correct them as soon as possible. 
+If you find any mistake in any of these notes, please contact me. I will correct them as soon as possible. 
 
 ### Summer Research & Summer School ###
 NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
