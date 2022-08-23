@@ -98,10 +98,10 @@ NSERC Undergraduate Research Award project: Probing Exotic Fields. This project 
 
 An Introductory Theoretical Mechanics book for high school students. It is written in Chinese. [Link](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf)
 
-AMATH 271 final project: a research on the motion of the double pendulum system. [Link](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf) [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
+[AMATH 271 final project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf): a research on the motion of the double pendulum system. [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
 
-AMATH 251 project: a project on the numerical methods of ODEs. [Link](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/AMATH251Project1.pdf) [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
+[AMATH 251 project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/(https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)AMATH%20251%20Projects/AMATH251Project1.pdf): a project on the numerical methods of ODEs. [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
 
-CS 115 final project: a Racket program that generates the Pythagoras tree. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)
+[CS 115 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt): a Racket program that generates the Pythagoras tree. 
 
-CS 116 final project: a Python program that solves Kenken puzzles using the graph searching algorithm. [Link](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py)
+[CS 116 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py): a Python program that solves Kenken puzzles using the graph searching algorithm. 
