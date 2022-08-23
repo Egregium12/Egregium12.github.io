@@ -1,4 +1,3 @@
-![My favourite character in Love Live, 中須 かすみ](https://github.com/Egregium12/Egregium12.github.io/blob/2157b6cff23176078ded31224d6f6db8a8181726/background.jpg)
 ## Yu Li
 
 ### Contacts ###
