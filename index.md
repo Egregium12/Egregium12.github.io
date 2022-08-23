@@ -34,6 +34,30 @@ Here is a [music playlist](https://music.163.com/#/playlist?id=7014950576) that 
 * 2019 Euclid mathematics contest top 0.3% 
 * 2019 Fermat mathematics contest gold medalist 
 
+### Summer Research & Summer School ###
+NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
+
+### Teaching ###
+MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
+
+UCL PHAS0022 (Quantum Physics) Tutor
+
+### Talk ###
+Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields. [Link](https://indico.cern.ch/event/1159309/contributions/4995815/)
+
+### Projects ###
+NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system and magnetometers. 
+
+An [Introductory Theoretical Mechanics book for high school students](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf). It was written in Chinese. 
+
+[AMATH 271 final project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf): a research on the motion of the double pendulum system. [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
+
+[AMATH 251 project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/(https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)AMATH%20251%20Projects/AMATH251Project1.pdf): a project on the numerical methods of ODEs. [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
+
+[CS 115 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt): a Racket program that generates the Pythagoras tree. 
+
+[CS 116 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py): a Python program that solves Kenken puzzles using the graph searching algorithm. 
+
 ### Coursework ###
 
 Here are the courses that I will have taken by the end of the Fall 2022 term at the University of Waterloo.
@@ -81,27 +105,3 @@ Lecture notes are for learning purposes only. The copyright belongs to the autho
 will be updated once they are completed. The lecture notes labelled "not available" are either courses that do not have lecture notes or courses that have not been taken yet. They will be updated once they are available. 
 
 If you find any mistake in any of these notes, please contact me. I will correct them as soon as possible. 
-
-### Summer Research & Summer School ###
-NSERC Undergraduate Student Research Award under the supervision of [Niayesh Afshordi](https://nafshordi.com/).
-
-### Teaching ###
-MATH 237 (Multivariable Calculus for Honours Mathematics) Teaching Assistant/Marker
-
-UCL PHAS0022 (Quantum Physics) Tutor
-
-### Talk ###
-Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields. [Link](https://indico.cern.ch/event/1159309/contributions/4995815/)
-
-### Projects ###
-NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system and magnetometers. 
-
-An [Introductory Theoretical Mechanics book for high school students](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf). It was written in Chinese. 
-
-[AMATH 271 final project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf): a research on the motion of the double pendulum system. [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
-
-[AMATH 251 project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/(https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)AMATH%20251%20Projects/AMATH251Project1.pdf): a project on the numerical methods of ODEs. [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
-
-[CS 115 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt): a Racket program that generates the Pythagoras tree. 
-
-[CS 116 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Kenken_solver.py): a Python program that solves Kenken puzzles using the graph searching algorithm. 
