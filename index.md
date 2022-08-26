@@ -46,7 +46,7 @@ UCL PHAS0022 (Quantum Physics) Tutor
 Canadian Astro-Particle Physics Summer Student Talk Competition (CASST): about my NSERC project on probing exotic scalar fields. [Link](https://indico.cern.ch/event/1159309/contributions/4995815/)
 
 ### Projects ###
-NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system and magnetometers. 
+NSERC Undergraduate Research Award project: Probing Exotic Fields. This project was conducted under the supervision of Professor Niayesh Afshordi and PhD candidate Conner Dailey. We were studying the possible exotic scalar field radiations emitted from high-energy astrophysics events like Binary Black Hole mergers. We believed that such radiations could be probed by the GPS system. [Link to the code](https://github.com/Egregium12/2022-Summer-research/blob/1e89af67ad6dd52e2b7ef8334c372db535eb701f/ELF_full.nb) 
 
 An [Introductory Theoretical Mechanics book for high school students](https://github.com/Egregium12/Theoretical-Mechanics-for-high-schooler/blob/f4c114d3628f4d3618ce49066f2f5037c48ff94d/%E6%88%91%E5%9C%A8%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%9A%84%E5%8A%9B%E5%AD%A6%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98_Ver_1.pdf). It was written in Chinese. 
 
