@@ -23,7 +23,8 @@ I like music, fiction, animes and movies. When I lived in Alberta, I often went 
 
 My CV is available [here](https://github.com/Egregium12/Egregium12.github.io/blob/d98bca4880bef7db27a5369a81ebe0cdc56ee96e/Yu_Li_resume.pdf).
 
-Here is a [music playlist](https://music.163.com/#/playlist?id=7014950576) that I built (mainly anime music).
+Here is a [music playlist](https://music.163.com/#/playlist?id=7014950576) that I built (mainly anime music):
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=7014950576&auto=1&height=430"></iframe>
 
 ### Awards, Grants & Honours ###
 * Faculty of Mathematics National Scholarship
