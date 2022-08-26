@@ -53,7 +53,7 @@ An [Introductory Theoretical Mechanics book for high school students](https://gi
 
 [AMATH 271 final project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20271%20projects/AMATH271FinalProject.pdf): a research on the motion of the double pendulum system. [Link to the code](https://drive.google.com/file/d/1H6QVyCMyYAmdB2TXtGzMCi0Vwi6Q3Xz7/view?usp=sharing) [Link to the animations](https://drive.google.com/file/d/1EWUl7fBiR4NASLPHKKpdj4yGpNyTvEqI/view?usp=sharing)
 
-[AMATH 251 project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/(https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt)AMATH%20251%20Projects/AMATH251Project1.pdf): a project on the numerical methods of ODEs. [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
+[AMATH 251 project](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/AMATH251Project1.pdf): a project on the numerical methods of ODEs. [Link to the code](https://github.com/Egregium12/course-projects/blob/a0515fdfe8f51431dad091b637dc22f91ab512f4/AMATH%20251%20Projects/project1.mw)
 
 [CS 115 final project](https://github.com/Egregium12/course-projects/blob/ccded4f309132f1090377d42b2fe5fdf12b62f27/Pythagoras%20tree.rkt): a Racket program that generates the Pythagoras tree. 
 
