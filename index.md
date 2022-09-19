@@ -77,7 +77,7 @@ Here are the courses that I will have taken by the end of the Fall 2022 term at 
 |MATH 146 | Linear Algebra I |  Ross Willard & Giang Tran | [MATH 146](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20146%20Linear%20Algebra%201.pdf)|Completed|
 |MATH 245 | Linear Algebra II | Matthew Kennedy | [MATH 245](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/MATH%20245%20Linear%20Algebra%202.pdf)|Completed|
 |PMATH 343| Introduction to Mathematics for Quantum Information|    David Gosset    |    [PMATH 343](http://elliptic.space/book.html)  |Completed|
-|PMATH 347| Groups and Rings | | | Not yet available|
+|PMATH 347| Groups and Rings | Yu-Ru Liu | | Not yet available|
 |**Differential Equations**| 
 |AMATH 251| Ordinary Differential Equations I| Kevin Lamb | [AMATH 251](https://github.com/Egregium12/Lecture-Notes/blob/fd008954df326ee3d2188ceb87eb9250e8191e6f/AMATH%20251%20Ordinary%20Differential%20Equations%201.pdf)|Completed|
 |AMATH 353| Partial Differential Equations | Sivabal Sivaloganathan |     [AMATH 353](https://github.com/Egregium12/Lecture-Notes/blob/6a2611d4d7e4bf5bd0994874c2e0de49e6af989c/AM353_FPoulin_CourseNotes.pdf) & *Applied Partial Differrential Equations* by Richard Haberman       |Completed|
